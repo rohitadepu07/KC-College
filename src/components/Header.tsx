@@ -55,7 +55,7 @@ export default function Header() {
                 transition={{ repeat: Infinity, duration: 2.5, ease: 'easeInOut' }}
                 title="NAAC Accredited with 'A' Grade"
               />
-              <span className="hidden sm:block text-[9px] font-bold uppercase tracking-widest text-gray-400">
+              <span className="hidden sm:block text-[9px] font-bold uppercase tracking-widest text-orange-400">
                 NAAC Accredited
               </span>
             </div>
