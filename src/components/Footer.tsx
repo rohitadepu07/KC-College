@@ -15,7 +15,7 @@ export default function Footer() {
                 referrerPolicy="no-referrer"
               />
               <img
-                src="naac-a-grade.png"
+                src="./naac-a-grade.png"
                 alt="NAAC A Grade"
                 className="w-20 h-20 object-contain ml-2"
                 referrerPolicy="no-referrer"

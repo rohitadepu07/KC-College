@@ -48,7 +48,7 @@ export default function Header() {
             {/* RIGHT — NAAC Badge + Apply */}
             <div className="flex-shrink-0 flex flex-col items-center gap-1">
               <motion.img
-                src="/naac-a-grade.png"
+                src="./naac-a-grade.png"
                 alt="NAAC A Grade Accredited"
                 className="w-14 h-14 sm:w-16 sm:h-16 object-contain drop-shadow-md"
                 animate={{ y: [0, -3, 0] }}
