@@ -9,13 +9,13 @@ export default function Footer() {
           <div className="col-span-1 lg:col-span-1">
             <div className="flex items-center gap-3 mb-8">
               <img
-                src="/circle-logo.png"
+                src="circle-logo.png"
                 alt="KC College Logo"
                 className="w-16 h-16 object-contain"
                 referrerPolicy="no-referrer"
               />
               <img
-                src="/naac-a-grade.png"
+                src="naac-a-grade.png"
                 alt="NAAC A Grade"
                 className="w-20 h-20 object-contain ml-2"
                 referrerPolicy="no-referrer"
