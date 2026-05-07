@@ -47,7 +47,7 @@ export default function App() {
                   className="rounded-[40px] overflow-hidden shadow-2xl relative z-10"
                 >
                   <img
-                    src=".\assets\college labrary.jpeg"
+                    src=".\library.jpeg"
                     alt="Students in Library"
                     className="w-full aspect-square object-cover"
                   />
